@@ -1,4 +1,5 @@
-main.ry
+# если онлайн то - main.ry не надо, пошло и так
+
 from threading import *
 from time import time, sleep
 
