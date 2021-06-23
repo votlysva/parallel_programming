@@ -23,4 +23,4 @@ def one(num):
         x2 - time()
         
         input(x2-x1)
-        //время выполнения 0,0009 sec.//
+        //время выполнения 0,0009 sec. https://www.youtube.com/watch?v=gNonoLUF5N0&t=307s//
